@@ -1,4 +1,3 @@
-# SimilarityScoreMap
 ## Multi-agent Exploration with Similarity Score Map and Topological Memory
 Eun Sun Lee and Young Min Kim<br />
 3D Vision Lab, Seoul National Unversity
