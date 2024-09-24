@@ -3,7 +3,7 @@ Eun Sun Lee and Young Min Kim<br />
 3D Vision Lab, Seoul National Unversity
 
 
-<img src="./docs/shortmovie.gif" width="600" height="300"/>
+<img src="./docs/shortmovie.gif" width="550" height="300"/>
 
 ### Overview:
 We propose a multi-agent exploration strategy that coordinates the actions of multiple robots within a shared environment <br />
