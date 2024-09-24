@@ -8,9 +8,11 @@ Project Website:
 ![example](./docs/example.gif)
 
 ### Overview:
-We propose a multi-agent exploration strategy that coordinates the actions of multiple robots 
-within a shared environment to optimize overall exploration coverage. 
-Our approach combines the classical frontier-based method with a novel similarity score map derived from topological graph memory.
+We propose a multi-agent exploration strategy that coordinates <br />
+the actions of multiple robots within a shared environment <br />
+to optimize overall exploration coverage. 
+Our approach combines the classical frontier-based method <br />
+with a novel similarity score map derived from topological graph memory.
 
 
 ## Installing Dependencies
